@@ -12,3 +12,19 @@ C:\NetworkMonitor\Shared\obj\Debug\net48\Shared.csproj.CoreCompileInputs.cache
 C:\NetworkMonitor\Shared\obj\Debug\net48\Shared.csproj.Up2Date
 C:\NetworkMonitor\Shared\obj\Debug\net48\Shared.dll
 C:\NetworkMonitor\Shared\obj\Debug\net48\Shared.pdb
+C:\Users\EGPHA-STA 08\Documents\GitHub\Projects\NetworkMonitor\Shared\bin\Debug\net48\Shared.dll
+C:\Users\EGPHA-STA 08\Documents\GitHub\Projects\NetworkMonitor\Shared\bin\Debug\net48\Shared.pdb
+C:\Users\EGPHA-STA 08\Documents\GitHub\Projects\NetworkMonitor\Shared\bin\Debug\net48\Newtonsoft.Json.dll
+C:\Users\EGPHA-STA 08\Documents\GitHub\Projects\NetworkMonitor\Shared\bin\Debug\net48\System.Configuration.ConfigurationManager.dll
+C:\Users\EGPHA-STA 08\Documents\GitHub\Projects\NetworkMonitor\Shared\bin\Debug\net48\System.Security.AccessControl.dll
+C:\Users\EGPHA-STA 08\Documents\GitHub\Projects\NetworkMonitor\Shared\bin\Debug\net48\System.Security.Permissions.dll
+C:\Users\EGPHA-STA 08\Documents\GitHub\Projects\NetworkMonitor\Shared\bin\Debug\net48\System.Security.Principal.Windows.dll
+C:\Users\EGPHA-STA 08\Documents\GitHub\Projects\NetworkMonitor\Shared\obj\Debug\net48\Shared.csproj.AssemblyReference.cache
+C:\Users\EGPHA-STA 08\Documents\GitHub\Projects\NetworkMonitor\Shared\obj\Debug\net48\Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EGPHA-STA 08\Documents\GitHub\Projects\NetworkMonitor\Shared\obj\Debug\net48\Shared.AssemblyInfoInputs.cache
+C:\Users\EGPHA-STA 08\Documents\GitHub\Projects\NetworkMonitor\Shared\obj\Debug\net48\Shared.AssemblyInfo.cs
+C:\Users\EGPHA-STA 08\Documents\GitHub\Projects\NetworkMonitor\Shared\obj\Debug\net48\Shared.csproj.CoreCompileInputs.cache
+C:\Users\EGPHA-STA 08\Documents\GitHub\Projects\NetworkMonitor\Shared\obj\Debug\net48\Shared.sourcelink.json
+C:\Users\EGPHA-STA 08\Documents\GitHub\Projects\NetworkMonitor\Shared\obj\Debug\net48\Shared.csproj.Up2Date
+C:\Users\EGPHA-STA 08\Documents\GitHub\Projects\NetworkMonitor\Shared\obj\Debug\net48\Shared.dll
+C:\Users\EGPHA-STA 08\Documents\GitHub\Projects\NetworkMonitor\Shared\obj\Debug\net48\Shared.pdb

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\NetworkMonitor\\NetworkMonitorService\\NetworkMonitorService.csproj": {}
+    "C:\\Users\\EGPHA-STA 08\\Documents\\GitHub\\Projects\\NetworkMonitor\\NetworkMonitorService\\NetworkMonitorService.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\NetworkMonitor\\NetworkMonitorService\\NetworkMonitorService.csproj": {
+    "C:\\Users\\EGPHA-STA 08\\Documents\\GitHub\\Projects\\NetworkMonitor\\NetworkMonitorService\\NetworkMonitorService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\NetworkMonitor\\NetworkMonitorService\\NetworkMonitorService.csproj",
+        "projectUniqueName": "C:\\Users\\EGPHA-STA 08\\Documents\\GitHub\\Projects\\NetworkMonitor\\NetworkMonitorService\\NetworkMonitorService.csproj",
         "projectName": "NetworkMonitorService",
-        "projectPath": "C:\\Projects\\NetworkMonitor\\NetworkMonitorService\\NetworkMonitorService.csproj",
-        "packagesPath": "C:\\Users\\Aldwin\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\NetworkMonitor\\NetworkMonitorService\\obj\\",
+        "projectPath": "C:\\Users\\EGPHA-STA 08\\Documents\\GitHub\\Projects\\NetworkMonitor\\NetworkMonitorService\\NetworkMonitorService.csproj",
+        "packagesPath": "C:\\Users\\EGPHA-STA 08\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\EGPHA-STA 08\\Documents\\GitHub\\Projects\\NetworkMonitor\\NetworkMonitorService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Aldwin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\EGPHA-STA 08\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net48"
@@ -26,8 +26,8 @@
           "net48": {
             "targetAlias": "net48",
             "projectReferences": {
-              "C:\\Projects\\NetworkMonitor\\Shared\\Shared.csproj": {
-                "projectPath": "C:\\Projects\\NetworkMonitor\\Shared\\Shared.csproj"
+              "C:\\Users\\EGPHA-STA 08\\Documents\\GitHub\\Projects\\NetworkMonitor\\Shared\\Shared.csproj": {
+                "projectPath": "C:\\Users\\EGPHA-STA 08\\Documents\\GitHub\\Projects\\NetworkMonitor\\Shared\\Shared.csproj"
               }
             }
           }
@@ -68,17 +68,17 @@
         }
       }
     },
-    "C:\\Projects\\NetworkMonitor\\Shared\\Shared.csproj": {
+    "C:\\Users\\EGPHA-STA 08\\Documents\\GitHub\\Projects\\NetworkMonitor\\Shared\\Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\NetworkMonitor\\Shared\\Shared.csproj",
+        "projectUniqueName": "C:\\Users\\EGPHA-STA 08\\Documents\\GitHub\\Projects\\NetworkMonitor\\Shared\\Shared.csproj",
         "projectName": "Shared",
-        "projectPath": "C:\\Projects\\NetworkMonitor\\Shared\\Shared.csproj",
-        "packagesPath": "C:\\Users\\Aldwin\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\NetworkMonitor\\Shared\\obj\\",
+        "projectPath": "C:\\Users\\EGPHA-STA 08\\Documents\\GitHub\\Projects\\NetworkMonitor\\Shared\\Shared.csproj",
+        "packagesPath": "C:\\Users\\EGPHA-STA 08\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\EGPHA-STA 08\\Documents\\GitHub\\Projects\\NetworkMonitor\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Aldwin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\EGPHA-STA 08\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net48"
